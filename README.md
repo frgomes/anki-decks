@@ -1,4 +1,4 @@
 Anki Decks
 ----------
 
-* German/Portuguese
+* German-Portuguese
